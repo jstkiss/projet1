@@ -17,7 +17,7 @@ const About = () => (
     >
       <TypingText title=" About JSTKiss" textStyles="text-center" />
       <motion.p
-        variants={fadeIn("up", "tween", 0.2, 1)}
+        variants={fadeIn('up', 'tween', 0.2, 1)}
         className="mt-2 font-normal sm:text-2xl text-center text-secondary-white"
       >
         <span className="font-extrabold text-white"> Jiimcy </span>
@@ -36,7 +36,7 @@ const About = () => (
         the madness of the metaverse by scrolling down
       </motion.p>
       <motion.img
-        variants={fadeIn("up", "tween", 0.3, 1)}
+        variants={fadeIn('up', 'tween', 0.3, 1)}
         src="arrow-down.svg"
         alt="arrow-donw"
         className="w-4 h-7 object-contain mt-7"
