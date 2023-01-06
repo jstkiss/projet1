@@ -16,22 +16,22 @@ const Explore = () => {
   <section className={`${styles.paddings}`} id="explore">
     <motion.div
       variants={staggerContainer}
-      initial="hidden"
-      whileInView="show"
+      initial='hidden'
+      whileInView='show'
       viewport={{ once: 'false', amount: 0.25 }}
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
-      <TypingText title="The wolrd" textStyles="text-center" />
+      <TypingText title='The wolrd' textStyles='text-center' />
       <TitleText
         title={
           <>
-            Choose the wolrd you want <br className="md:block hidden" />
+            Choose the wolrd you want <br className='md:block hidden' />
             To explore
           </>
         }
-        textStyles="text-center"
+        textStyles='text-center'
       />
-      <div className="mt-12 flex lg:flex-row flex-col min-h-[70vh] gap-5">
+      <div className='mt-12 flex lg:flex-row flex-col min-h-[70vh] gap-5'>
         {exploreWorlds.map((world, index) => (
           <ExploreCard
             key={world.id}
