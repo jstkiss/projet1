@@ -27,9 +27,9 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Jiimcy fan de JSTKiss',
-  'JSTKiss le roi',
-  'Je suis trop chaud',
+  'Jblalala',
+  'blalala',
+  'blalala',
 ];
 
 export const newFeatures = [

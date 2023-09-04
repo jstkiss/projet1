@@ -20,14 +20,14 @@ const Feedback = () => (
         <div className='feedback-gradient' />
         <div>
           <h4 className='font-bold sm:text-3xl text-2xl sm:leading-10 leading-9 text-white'>
-            JSTKiss
+            blalbal
           </h4>
           <p className='mt-4 font-normal sm:text-lg text-xs sm:leading-5 leading-4 text-white'>
-            Founder cou
+            Founder dad
           </p>
         </div>
         <p className='mt-6 font-normal sm:text-6 text-lg sm:leading-[45px] leading-10 text-white'>
-          'Jiimcy trop disipé un truc de fou cette enfant est insuportable jpp'
+          'zdzdzddzadzadadadadadad dadadadadad'
         </p>
       </motion.div>
       <motion.div

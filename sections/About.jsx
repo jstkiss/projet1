@@ -20,24 +20,21 @@ const About = () => (
         variants={fadeIn('up', 'tween', 0.2, 1)}
         className='mt-2 font-normal sm:text-2xl text-center text-secondary-white'
       >
-        <span className='font-extrabold text-white'> Jiimcy </span>
-        is a new thing in the future, where you can enjoy the virtual world by
-        feeling like it's really real, you can feel what you feel in this
-        metaverse world, because this is really the
+        <span className='font-extrabold text-white'> Coucou </span>
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero in maiores expedita animi! Earum ea neque maiores ipsam numquam aliquam, id esse odit consequatur maxime molestiae nobis ratione. Repudiandae, enim.
         <span className='font-extrabold text-white'>
           {' '}
-          Joue bien mais pas tout les jours mais elle reste sympas{' '}
+          blablalblalblalb{' '}
         </span>
-        of today, using only
-        <span className='font-extrabold text-white'> JSTKiss </span>
-        devices you can easily explore the metaverse world you want, turn your
-        dreams into reality. Le
-        <span className='font-extrabold text-white'> Roi </span>
-        the madness of the metaverse by scrolling down
+        blalblalblal
+        <span className='font-extrabold text-white'> blalblall </span>
+        blalblalfll
+        <span className='font-extrabold text-white'> blalblalblal </span>
+        blablalblalbl
       </motion.p>
       <motion.img
         variants={fadeIn('up', 'tween', 0.3, 1)}
-        src='arrow-down.svg'
+        src='/arrow-down.svg'
         alt='arrow-donw'
         className='w-4 h-7 object-contain mt-7'
       ></motion.img>
