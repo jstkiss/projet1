@@ -1,4 +1,4 @@
-import { Footer, Navbar } from "../components";
+import { Navbar } from "../components";
 import {
   About,
   Explore,
@@ -7,7 +7,6 @@ import {
   Hero,
   Insights,
   WhatsNew,
-  World,
 } from "../sections";
 
 const Page = () => (
