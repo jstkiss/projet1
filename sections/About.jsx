@@ -21,15 +21,15 @@ const About = () => (
         className='mt-2 font-normal sm:text-2xl text-center text-secondary-white'
       >
         <span className='font-extrabold text-white'> Coucou </span>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero in maiores expedita animi! Earum ea neque maiores ipsam numquam aliquam, id esse odit consequatur maxime molestiae nobis ratione. Repudiandae, enim.
+        Bienvenue sur Metadev site fait pendant les cours chez Acces Code School
         <span className='font-extrabold text-white'>
           {' '}
-          blablalblalblalb{' '}
+          mehdi{' '}
         </span>
         blalblalblal
-        <span className='font-extrabold text-white'> blalblall </span>
+        <span className='font-extrabold text-white'> priska </span>
         blalblalfll
-        <span className='font-extrabold text-white'> blalblalblal </span>
+        <span className='font-extrabold text-white'> ruben </span>
         blablalblalbl
       </motion.p>
       <motion.img
